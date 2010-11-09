@@ -1,4 +1,4 @@
-常见问题：
+<b>常见问题：</b><br/>
 1，出现了“No module named appindicator” 详细错误如下：
 Traceback (most recent call last):
  File "/usr/lib/rhythmbox/plugins/DoubanFM/__init__.py", line 8, in <module>
